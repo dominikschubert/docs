@@ -1,7 +1,7 @@
 ---
 title: "Lambda"
 linkTitle: "Lambda"
-categories: ["LocalStack Community", "LocalStack Pro"]
+categories: ["LocalStack Community", "LocalStack Pro", "Serverless"]
 description: >
   Supporting local development and testing of AWS Lambdas on LocalStack
 ---
